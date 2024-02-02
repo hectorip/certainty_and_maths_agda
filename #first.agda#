@@ -1,0 +1,5 @@
+module first where
+   Bool: Set
+   false: Bool
+   true: Bool
+end
